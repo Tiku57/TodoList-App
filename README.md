@@ -32,9 +32,16 @@ Users can add, edit, and delete tasks easily in a clean and intuitive UI.
 ```bash
 git clone https://github.com/your-username/TodoList-App.git
 cd TodoList-App
+```
+### 2. Install dependencies
+
+```bash
 npm install
 npm install react-icons --save
 npm install uuid
+```
+### 3. Run the app
+```bash
 npm run dev
 ```
 
