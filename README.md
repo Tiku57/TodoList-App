@@ -44,4 +44,7 @@ npm install uuid
 ```bash
 npm run dev
 ```
+## 🙋‍♂️ Author
 
+**Aaditya Sattawan**  
+[GitHub: @Tiku57](https://github.com/Tiku57)
